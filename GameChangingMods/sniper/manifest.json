@@ -1,9 +1,0 @@
-{
-  "name": "Sniper",
-  "version_number": "1.5.2",
-  "website_url": "https://discord.gg/jXGFN4k",
-  "description": "Adds a Sniper character to the game, complete with an original model and animations (by Drag) and a polished kit.",
-  "dependencies": [
-    "bbepis-BepInExPack-5.3.1"
-  ]
-}
